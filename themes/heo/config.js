@@ -45,12 +45,11 @@ const CONFIG = {
       title_1: 'AfterEffect',
       img_1: '/images/heo/20239df3f66615b532ce571eac6d14ff21cf072602.webp',
       color_1: '#989bf8',
-      title_2: 'Sketch',
-      img_2: '/images/heo/2023e0ded7b724a39f12d59c3dc8fbdc7cbe074202.webp',
+      title_2: 'ChatGPT',
+      img_2: 'https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F0cc62bc3-4541-4593-afba-f74577308066%2Fefa256ab-4a5e-493b-8052-1fe97d1ae341%2F10%25E6%259C%258811%25E6%2597%25A5.jpg?table=block&id=1c3076e6-9057-47d6-98ad-9f727f1089c1',
       color_2: '#ffffff'
     },
     {
-       {
       title_1: 'Docker',
       img_1: '/images/heo/20231108a540b2862d26f8850172e4ea58ed075102.webp',
       color_1: '#57b6e6',
@@ -59,24 +58,11 @@ const CONFIG = {
       color_2: '#4082c3'
     },
     {
-       {
       title_1: 'FinalCutPro',
       img_1: '/images/heo/20233e777652412247dd57fd9b48cf997c01070702.webp',
       color_1: '#ffffff',
-@@ -66,44 +58,52 @@ const CONFIG = {
-      color_2: '#ffffff'
-    },
-    {
-      title_1: 'Swift',
-      img_1: '/images/heo/202328bbee0b314297917b327df4a704db5c072402.webp',
-      color_1: '#eb6840',
-      title_2: 'Principle',
-      img_2: '/images/heo/2023f76570d2770c8e84801f7e107cd911b5073202.webp',
-      title_1: 'AfterEffect',
-      img_1: '/images/heo/20239df3f66615b532ce571eac6d14ff21cf072602.webp',
-      color_1: '#989bf8',
-      title_2: 'ChatGPT',
-      img_2: 'https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F0cc62bc3-4541-4593-afba-f74577308066%2Fefa256ab-4a5e-493b-8052-1fe97d1ae341%2F10%25E6%259C%258811%25E6%2597%25A5.jpg?table=block&id=1c3076e6-9057-47d6-98ad-9f727f1089c1',
+      title_2: 'Python',
+      img_2: '/images/heo/20235c0731cd4c0c95fc136a8db961fdf963071502.webp',
       color_2: '#ffffff'
     },
     {
@@ -91,22 +77,14 @@ const CONFIG = {
       title_1: 'illustrator',
       img_1: '/images/heo/20237359d71b45ab77829cee5972e36f8c30073902.webp',
       color_1: '#f29e39',
-      title_2: 'CSS3',
-      img_2: '/images/heo/20237c548846044a20dad68a13c0f0e1502f074602.webp',
-      color_2: '#2c51db'
-      title_2: ' GitHub',
+     title_2: ' GitHub',
       img_2: 'https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F0cc62bc3-4541-4593-afba-f74577308066%2F9cac2d15-601f-4318-ba47-5cd197d65260%2FGitHub.png?table=block&id=10afae08-5be6-473e-bb4b-aa476029d0b1',
       color_2: '#000000'
     },
     {
-      title_1: 'JS',
-      img_1: '/images/heo/2023786e7fc488f453d5fb2be760c96185c0075502.webp',
-      title_1: 'huggingface',
+     title_1: 'huggingface',
       img_1: 'https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F0cc62bc3-4541-4593-afba-f74577308066%2F61820510-6c4a-45ac-830c-7164c5e0b7ec%2Fhuggingface_logo-noborder_(1).svg?table=block&id=36f0d7b3-9505-4444-9db8-5942102f6fe7',
       color_1: '#f7cb4f',
-      title_2: 'HTML',
-      img_2: '/images/heo/202372b4d760fd8a497d442140c295655426070302.webp',
-      color_2: '#e9572b'
       title_2: 'zeabur',
       img_2: 'https://zeabur.com/icons/logo.png',
       color_2: '#000000'
@@ -115,9 +93,6 @@ const CONFIG = {
       title_1: 'Git',
       img_1: '/images/heo/2023ffa5707c4e25b6beb3e6a3d286ede4c6071102.webp',
       color_1: '#df5b40',
-      title_2: 'Rhino',
-      img_2: '/images/heo/20231ca53fa0b09a3ff1df89acd7515e9516173302.webp',
-      color_2: '#1f1f1f'
       title_2: 'Vercel',
       img_2: 'https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F0cc62bc3-4541-4593-afba-f74577308066%2Fb364effd-78cc-4061-a0b9-c1ee7a842691%2FVercel.jpg?table=block&id=4bb53b4b-357c-4009-b93e-317e4f28cbf5',
       color_2: '#FFFFFF'
